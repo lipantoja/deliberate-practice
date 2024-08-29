@@ -52,5 +52,14 @@
 
 # pp array
 
+#-----Question 8 --------
+# Create an array to store 5 numbers. Then change the first number to 10 times its original value and print the array on one line.
+
+array = [2, 3, 45, 12, 41]
+array[0] = array[0] * 10
+pp array 
+
+#----Question 9-----
+
 
 
