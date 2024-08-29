@@ -65,7 +65,7 @@
 #------Question 10------
 # Create an array to store names of 3 different countries. Then add one more country and print the array one line.
 
-array = ["United States", "Mexico", "Canada"]
-array << "Spain"
-pp array 
+# array = ["United States", "Mexico", "Canada"]
+# array << "Spain"
+# pp array 
 
