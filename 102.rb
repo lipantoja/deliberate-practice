@@ -55,11 +55,17 @@
 #-----Question 8 --------
 # Create an array to store 5 numbers. Then change the first number to 10 times its original value and print the array on one line.
 
-array = [2, 3, 45, 12, 41]
-array[0] = array[0] * 10
-pp array 
+# array = [2, 3, 45, 12, 41]
+# array[0] = array[0] * 10
+# pp array 
 
 #----Question 9-----
+# Create an array to store 2 numbers. Then print out each number on separate lines with a while loop.
 
+#------Question 10------
+# Create an array to store names of 3 different countries. Then add one more country and print the array one line.
 
+array = ["United States", "Mexico", "Canada"]
+array << "Spain"
+pp array 
 
