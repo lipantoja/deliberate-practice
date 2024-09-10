@@ -2,11 +2,9 @@
 # Make a hash to store a person's first name, last name, and email address. Then print each attribute on separate lines.
 
 # person = {name: "Alex", last_name: "Hamilton", email: "aham@gmail.com"}
-
 # p person[:name]
 # p person[:last_name]
 # p person[:email]
-
 # puts person [:name], [:last_name], [:email]
 
 #---question 2---
@@ -25,7 +23,10 @@
 #   pp name
 # end
 
+#----question 3-----
+# Make a hash to store prices for 3 different menu items. Then add a new menu item and price and print the hash to see the result.
 
+menu = {fries: 4, fried_chicken: 6, combo_chicken: 8}
+menu[:fountain_drink] = 3
 
-
-
+pp menu
