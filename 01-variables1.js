@@ -38,3 +38,27 @@
 // var phrase = x + ' ' + y
 // console.log (phrase.toUpperCase());
 
+// 01-Variables1: Question 7
+// Write a program that uses a variable to store a word, then prints the number of letters in the word.
+// var word = "distinguished"
+// console.log(word.length);
+
+// 01-Variables1: Question 8
+// Write a program that uses a variable to store a number with decimals, then prints the number as an integer.
+// var decimal = 1.09
+// console.log(parseInt('2.19'));
+
+// 01-Variables1: Question 9
+// Write a program that uses a variable to store two numbers, then prints the two numbers multiplied together.
+// var number = 3;
+// var secondNumber = 3;
+// console.log(number * secondNumber);
+
+// 01-Variables1: Question 10
+// Write a program that uses a variable to store a word, then prints the word with all lowercase letters.
+
+// var word = "UnStOpPaBlE"
+// console.log(word.toLowerCase());
+
+
+
