@@ -26,7 +26,7 @@
 #----question 3-----
 # Make a hash to store prices for 3 different menu items. Then add a new menu item and price and print the hash to see the result.
 
-menu = {fries: 4, fried_chicken: 6, combo_chicken: 8}
-menu[:fountain_drink] = 3
+# menu = {fries: 4, fried_chicken: 6, combo_chicken: 8}
+# menu[:fountain_drink] = 3
 
-pp menu
+# pp menu
